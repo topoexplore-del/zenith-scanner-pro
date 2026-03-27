@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-03-26 16:50:58 (Hora Colombia)",
+  "checked_at": "2026-03-27 11:43:31 (Hora Colombia)",
   "confirmed": 0,
   "signals": [],
   "watchlist": [
@@ -10,57 +10,15 @@
       ]
     },
     {
-      "ticker": "DLO",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "POWL",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ROST",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "OKE",
-      "failed": [
-        "Radar"
+        "Entry Zones"
       ]
     },
     {
       "ticker": "CTRA",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "SQM",
-      "failed": [
-        "Entry Zones"
-      ]
-    },
-    {
-      "ticker": "VLO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SLB",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
