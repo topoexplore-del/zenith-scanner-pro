@@ -1,10 +1,80 @@
 {
-  "checked_at": "2026-03-31 16:33:32 (Hora Colombia)",
-  "confirmed": 0,
-  "signals": [],
+  "checked_at": "2026-04-01 10:04:06 (Hora Colombia)",
+  "confirmed": 2,
+  "signals": [
+    {
+      "ticker": "OKE",
+      "composite": 69,
+      "prob": 95,
+      "zones": {
+        "entry": 89.03,
+        "tp1": 93.1,
+        "tp2": 95.81,
+        "sl": 88.58
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "SQM",
+      "composite": 61,
+      "prob": 95,
+      "zones": {
+        "entry": 79.73,
+        "tp1": 83.37,
+        "tp2": 85.8,
+        "sl": 79.32
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "CF",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AMX",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "POWL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "HUBB",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ROST",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "ETN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ETN",
       "failed": [
         "Radar"
       ]
@@ -16,7 +86,7 @@
       ]
     },
     {
-      "ticker": "SQM",
+      "ticker": "FMX",
       "failed": [
         "Radar"
       ]
@@ -25,6 +95,18 @@
       "ticker": "VLO",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "T",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "SLB",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
