@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-02 14:37:16 (Hora Colombia)",
+  "checked_at": "2026-04-02 15:08:28 (Hora Colombia)",
   "confirmed": 2,
   "signals": [
     {
@@ -59,13 +59,13 @@
       ]
     },
     {
-      "ticker": "SQM",
+      "ticker": "VLO",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "VLO",
+      "ticker": "SQM",
       "failed": [
         "Radar"
       ]
