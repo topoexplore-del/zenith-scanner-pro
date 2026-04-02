@@ -1,38 +1,35 @@
 {
-  "checked_at": "2026-04-01 16:02:54 (Hora Colombia)",
+  "checked_at": "2026-04-02 09:56:56 (Hora Colombia)",
   "confirmed": 2,
   "signals": [
     {
-      "ticker": "OKE",
-      "composite": 69,
+      "ticker": "TER",
+      "composite": 75,
       "prob": 95,
       "zones": {
-        "entry": 89.03,
-        "tp1": 93.1,
-        "tp2": 95.81,
-        "sl": 88.58
+        "entry": 307.52,
+        "tp1": 321.57,
+        "tp2": 330.93,
+        "sl": 305.96
       },
       "periods": [
-        "1 Mes",
         "3 Meses",
-        "6 Meses"
+        "6 Meses",
+        "1 A\u00f1o"
       ]
     },
     {
-      "ticker": "SQM",
+      "ticker": "FMX",
       "composite": 61,
       "prob": 95,
       "zones": {
-        "entry": 79.73,
-        "tp1": 83.37,
-        "tp2": 85.8,
-        "sl": 79.32
+        "entry": 111.4,
+        "tp1": 116.49,
+        "tp2": 119.89,
+        "sl": 110.84
       },
       "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
+        "1 Semana"
       ]
     }
   ],
@@ -44,39 +41,15 @@
       ]
     },
     {
-      "ticker": "AMX",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "POWL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "HUBB",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ROST",
+      "ticker": "HWM",
       "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "ETN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ETN",
-      "failed": [
-        "Radar"
+        "Entry Zones"
       ]
     },
     {
@@ -86,7 +59,7 @@
       ]
     },
     {
-      "ticker": "FMX",
+      "ticker": "SQM",
       "failed": [
         "Radar"
       ]
@@ -98,13 +71,13 @@
       ]
     },
     {
-      "ticker": "T",
+      "ticker": "XOM",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "SLB",
+      "ticker": "APD",
       "failed": [
         "Analysis"
       ]
