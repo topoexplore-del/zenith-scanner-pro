@@ -1,35 +1,38 @@
 {
-  "checked_at": "2026-04-02 16:26:56 (Hora Colombia)",
+  "checked_at": "2026-04-03 09:43:30 (Hora Colombia)",
   "confirmed": 2,
   "signals": [
+    {
+      "ticker": "AZN",
+      "composite": 81,
+      "prob": 95,
+      "zones": {
+        "entry": 200.44,
+        "tp1": 209.59,
+        "tp2": 215.7,
+        "sl": 199.42
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
     {
       "ticker": "TER",
       "composite": 75,
       "prob": 95,
       "zones": {
-        "entry": 307.52,
-        "tp1": 321.57,
-        "tp2": 330.93,
-        "sl": 305.96
+        "entry": 304.97,
+        "tp1": 318.9,
+        "tp2": 328.19,
+        "sl": 303.42
       },
       "periods": [
+        "1 Semana",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "FMX",
-      "composite": 61,
-      "prob": 95,
-      "zones": {
-        "entry": 111.4,
-        "tp1": 116.49,
-        "tp2": 119.89,
-        "sl": 110.84
-      },
-      "periods": [
-        "1 Semana"
       ]
     }
   ],
@@ -41,15 +44,27 @@
       ]
     },
     {
+      "ticker": "AMAT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "HUBB",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "HWM",
+      "ticker": "POWL",
       "failed": [
-        "Entry Zones"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "KEYS",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -68,12 +83,6 @@
       "ticker": "SQM",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "XOM",
-      "failed": [
-        "Analysis"
       ]
     },
     {
