@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-04-06T20:49:32.315615Z",
+  "built_at": "2026-04-06T21:27:42.648649Z",
   "groups": {
     "🎯 Watchlist Core": [
       {
@@ -2300,7 +2300,7 @@
         "eps_gr": "Solid",
         "fund": 50.0,
         "sector": "Financial Services",
-        "mktcap": "$293B",
+        "mktcap": "$291B",
         "target": 94.67,
         "upside": 12.2,
         "proj_conf": "Med",
@@ -3017,7 +3017,7 @@
         "eps_gr": "Solid",
         "fund": 50.0,
         "sector": "Financial Services",
-        "mktcap": "$2.2T",
+        "mktcap": "$2.3T",
         "target": 145.49,
         "upside": 11.9,
         "proj_conf": "Med",
@@ -3350,7 +3350,7 @@
         "daily": -0.05,
         "5d": 4.21,
         "20d": 5.47,
-        "pe": 13.3,
+        "pe": 12.2,
         "pe_gr": "Cheap",
         "roe": null,
         "roe_gr": "N/A",
@@ -3505,7 +3505,7 @@
         "daily": -0.75,
         "5d": 3.18,
         "20d": -3.11,
-        "pe": 16.8,
+        "pe": 16.5,
         "pe_gr": "Fair",
         "roe": null,
         "roe_gr": "N/A",
@@ -3691,7 +3691,7 @@
         "daily": -1.32,
         "5d": 0.96,
         "20d": 0.53,
-        "pe": 21.7,
+        "pe": 20.0,
         "pe_gr": "Fair",
         "roe": null,
         "roe_gr": "N/A",
