@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-07 14:38:01 (Hora Colombia)",
+  "checked_at": "2026-04-07 15:11:32 (Hora Colombia)",
   "confirmed": 1,
   "signals": [
     {
@@ -23,6 +23,12 @@
   ],
   "watchlist": [
     {
+      "ticker": "CF",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "MU",
       "failed": [
         "Radar"
@@ -42,12 +48,6 @@
     },
     {
       "ticker": "GOOGL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CF",
       "failed": [
         "Radar"
       ]
