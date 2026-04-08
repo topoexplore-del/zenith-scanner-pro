@@ -1,23 +1,53 @@
 {
-  "checked_at": "2026-04-07 16:06:12 (Hora Colombia)",
-  "confirmed": 1,
+  "checked_at": "2026-04-08 10:09:23 (Hora Colombia)",
+  "confirmed": 3,
   "signals": [
     {
-      "ticker": "TER",
-      "composite": 75,
+      "ticker": "AZN",
+      "composite": 81,
       "prob": 95,
       "zones": {
-        "entry": 310.7,
-        "tp1": 324.89,
-        "tp2": 334.36,
-        "sl": 309.12
+        "entry": 197.8,
+        "tp1": 206.83,
+        "tp2": 212.86,
+        "sl": 196.79
       },
       "periods": [
         "1 Semana",
-        "1 Mes",
         "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "FCX",
+      "composite": 61,
+      "prob": 95,
+      "zones": {
+        "entry": 59.85,
+        "tp1": 62.58,
+        "tp2": 64.41,
+        "sl": 59.54
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "FCX",
+      "composite": 61,
+      "prob": 95,
+      "zones": {
+        "entry": 59.85,
+        "tp1": 62.58,
+        "tp2": 64.41,
+        "sl": 59.54
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
       ]
     }
   ],
@@ -29,31 +59,7 @@
       ]
     },
     {
-      "ticker": "MU",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TSM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "AMAT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "POWL",
       "failed": [
         "Radar"
       ]
@@ -65,31 +71,13 @@
       ]
     },
     {
-      "ticker": "GRMN",
+      "ticker": "ROST",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
-      "ticker": "KEYS",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "FCX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "QRVO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "FCX",
+      "ticker": "TER",
       "failed": [
         "Radar"
       ]
@@ -101,7 +89,25 @@
       ]
     },
     {
-      "ticker": "SQM",
+      "ticker": "POWL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "KEYS",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PNC",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "OKE",
       "failed": [
         "Radar"
       ]
@@ -110,6 +116,30 @@
       "ticker": "VLO",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "NUE",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "SQM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BSAC",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "TFC",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
