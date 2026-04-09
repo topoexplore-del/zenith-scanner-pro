@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-09 11:48:40 (Hora Colombia)",
+  "checked_at": "2026-04-09 12:50:21 (Hora Colombia)",
   "confirmed": 8,
   "signals": [
     {
@@ -85,6 +85,22 @@
       ]
     },
     {
+      "ticker": "SQM",
+      "composite": 61,
+      "prob": 95,
+      "zones": {
+        "entry": 81.24,
+        "tp1": 84.95,
+        "tp2": 87.43,
+        "sl": 80.83
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
       "ticker": "FMX",
       "composite": 61,
       "prob": 95,
@@ -111,21 +127,6 @@
       },
       "periods": [
         "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "SQM",
-      "composite": 56,
-      "prob": 95,
-      "zones": {
-        "entry": 81.24,
-        "tp1": 84.95,
-        "tp2": 87.43,
-        "sl": 80.83
-      },
-      "periods": [
         "3 Meses",
         "6 Meses"
       ]
