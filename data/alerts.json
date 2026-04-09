@@ -1,16 +1,49 @@
 {
-  "checked_at": "2026-04-08 16:17:41 (Hora Colombia)",
-  "confirmed": 3,
+  "checked_at": "2026-04-09 10:21:59 (Hora Colombia)",
+  "confirmed": 8,
   "signals": [
+    {
+      "ticker": "TSM",
+      "composite": 85,
+      "prob": 95,
+      "zones": {
+        "entry": 360.41,
+        "tp1": 376.88,
+        "tp2": 387.85,
+        "sl": 358.58
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "composite": 85,
+      "prob": 95,
+      "zones": {
+        "entry": 312.56,
+        "tp1": 326.84,
+        "tp2": 336.36,
+        "sl": 310.97
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
     {
       "ticker": "AZN",
       "composite": 81,
       "prob": 95,
       "zones": {
-        "entry": 197.8,
-        "tp1": 206.83,
-        "tp2": 212.86,
-        "sl": 196.79
+        "entry": 201.21,
+        "tp1": 210.4,
+        "tp2": 216.53,
+        "sl": 200.18
       },
       "periods": [
         "1 Semana",
@@ -19,14 +52,31 @@
       ]
     },
     {
+      "ticker": "ANET",
+      "composite": 74,
+      "prob": 95,
+      "zones": {
+        "entry": 142.89,
+        "tp1": 149.42,
+        "tp2": 153.77,
+        "sl": 142.17
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
       "ticker": "FCX",
       "composite": 61,
       "prob": 95,
       "zones": {
-        "entry": 59.85,
-        "tp1": 62.58,
-        "tp2": 64.41,
-        "sl": 59.54
+        "entry": 64.12,
+        "tp1": 67.05,
+        "tp2": 69.01,
+        "sl": 63.8
       },
       "periods": [
         "1 Semana",
@@ -35,14 +85,45 @@
       ]
     },
     {
+      "ticker": "SQM",
+      "composite": 61,
+      "prob": 95,
+      "zones": {
+        "entry": 81.24,
+        "tp1": 84.95,
+        "tp2": 87.43,
+        "sl": 80.83
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "FMX",
+      "composite": 61,
+      "prob": 95,
+      "zones": {
+        "entry": 113.84,
+        "tp1": 119.04,
+        "tp2": 122.5,
+        "sl": 113.26
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes"
+      ]
+    },
+    {
       "ticker": "FCX",
       "composite": 61,
       "prob": 95,
       "zones": {
-        "entry": 59.85,
-        "tp1": 62.58,
-        "tp2": 64.41,
-        "sl": 59.54
+        "entry": 64.12,
+        "tp1": 67.05,
+        "tp2": 69.01,
+        "sl": 63.8
       },
       "periods": [
         "1 Semana",
@@ -56,6 +137,36 @@
       "ticker": "CF",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BWMX",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "GOOG",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CMI",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -77,13 +188,25 @@
       ]
     },
     {
-      "ticker": "TER",
+      "ticker": "DECK",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "CTRA",
+      "ticker": "ROK",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ROK",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TER",
       "failed": [
         "Radar"
       ]
@@ -95,51 +218,9 @@
       ]
     },
     {
-      "ticker": "KEYS",
+      "ticker": "GRMN",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "PNC",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "OKE",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "VLO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "NUE",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "SQM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "BSAC",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "TFC",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
