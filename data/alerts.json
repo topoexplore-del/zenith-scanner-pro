@@ -1,16 +1,33 @@
 {
-  "checked_at": "2026-04-10 16:06:02 (Hora Colombia)",
+  "checked_at": "2026-04-13 10:17:04 (Hora Colombia)",
   "confirmed": 3,
   "signals": [
+    {
+      "ticker": "TSM",
+      "composite": 85,
+      "prob": 95,
+      "zones": {
+        "entry": 365.04,
+        "tp1": 381.72,
+        "tp2": 392.84,
+        "sl": 363.19
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
     {
       "ticker": "ANET",
       "composite": 74,
       "prob": 95,
       "zones": {
-        "entry": 143.86,
-        "tp1": 150.43,
-        "tp2": 154.81,
-        "sl": 143.13
+        "entry": 145.14,
+        "tp1": 151.77,
+        "tp2": 156.19,
+        "sl": 144.4
       },
       "periods": [
         "1 Semana",
@@ -25,29 +42,13 @@
       "composite": 61,
       "prob": 95,
       "zones": {
-        "entry": 113.55,
-        "tp1": 118.74,
-        "tp2": 122.2,
-        "sl": 112.97
+        "entry": 114.86,
+        "tp1": 120.11,
+        "tp2": 123.61,
+        "sl": 114.28
       },
       "periods": [
         "1 Mes"
-      ]
-    },
-    {
-      "ticker": "JCI",
-      "composite": 61,
-      "prob": 95,
-      "zones": {
-        "entry": 139.72,
-        "tp1": 146.11,
-        "tp2": 150.36,
-        "sl": 139.01
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
       ]
     }
   ],
@@ -65,13 +66,13 @@
       ]
     },
     {
-      "ticker": "GOOGL",
+      "ticker": "GSK",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
-      "ticker": "GOOG",
+      "ticker": "GOOGL",
       "failed": [
         "Radar"
       ]
@@ -89,13 +90,13 @@
       ]
     },
     {
-      "ticker": "DECK",
+      "ticker": "ROST",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
-      "ticker": "NDSN",
+      "ticker": "DECK",
       "failed": [
         "Radar"
       ]
@@ -125,13 +126,13 @@
       ]
     },
     {
-      "ticker": "KEYS",
+      "ticker": "STLD",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "STLD",
+      "ticker": "DEO",
       "failed": [
         "Radar"
       ]
