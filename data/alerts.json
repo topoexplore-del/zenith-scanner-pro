@@ -1,21 +1,19 @@
 {
-  "checked_at": "2026-04-14 16:39:02 (Hora Colombia)",
+  "checked_at": "2026-04-15 10:09:18 (Hora Colombia)",
   "confirmed": 1,
   "signals": [
     {
-      "ticker": "JCI",
+      "ticker": "FMX",
       "composite": 61,
       "prob": 95,
       "zones": {
-        "entry": 140.68,
-        "tp1": 147.1,
-        "tp2": 151.39,
-        "sl": 139.96
+        "entry": 113.34,
+        "tp1": 118.52,
+        "tp2": 121.97,
+        "sl": 112.77
       },
       "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
+        "1 Mes"
       ]
     }
   ],
@@ -28,30 +26,6 @@
     },
     {
       "ticker": "INCY",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CTSH",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "BWMX",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "AMX",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "AOS",
       "failed": [
         "Radar"
       ]
@@ -81,12 +55,6 @@
       ]
     },
     {
-      "ticker": "CTRA",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "POWL",
       "failed": [
         "Radar"
@@ -99,13 +67,43 @@
       ]
     },
     {
-      "ticker": "GRMN",
+      "ticker": "META",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "GE",
+      "ticker": "JPM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "STLD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PNC",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "ASML",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "ALGN",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "USB",
       "failed": [
         "Analysis"
       ]
