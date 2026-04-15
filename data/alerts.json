@@ -1,7 +1,24 @@
 {
-  "checked_at": "2026-04-15 13:22:39 (Hora Colombia)",
-  "confirmed": 1,
+  "checked_at": "2026-04-15 14:49:59 (Hora Colombia)",
+  "confirmed": 2,
   "signals": [
+    {
+      "ticker": "TSM",
+      "composite": 85,
+      "prob": 95,
+      "zones": {
+        "entry": 374.19,
+        "tp1": 391.29,
+        "tp2": 402.68,
+        "sl": 372.29
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
     {
       "ticker": "FMX",
       "composite": 61,
