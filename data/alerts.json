@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-04-15 16:33:51 (Hora Colombia)",
-  "confirmed": 2,
+  "checked_at": "2026-04-16 10:29:50 (Hora Colombia)",
+  "confirmed": 6,
   "signals": [
     {
       "ticker": "TSM",
       "composite": 85,
       "prob": 95,
       "zones": {
-        "entry": 374.19,
-        "tp1": 391.29,
-        "tp2": 402.68,
-        "sl": 372.29
+        "entry": 369.47,
+        "tp1": 386.35,
+        "tp2": 397.61,
+        "sl": 367.6
       },
       "periods": [
         "1 Semana",
@@ -20,27 +20,83 @@
       ]
     },
     {
+      "ticker": "NVDA",
+      "composite": 80,
+      "prob": 95,
+      "zones": {
+        "entry": 195.89,
+        "tp1": 204.84,
+        "tp2": 210.8,
+        "sl": 194.89
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "HUBB",
+      "composite": 79,
+      "prob": 95,
+      "zones": {
+        "entry": 519.04,
+        "tp1": 542.75,
+        "tp2": 558.56,
+        "sl": 516.4
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "NDSN",
+      "composite": 76,
+      "prob": 95,
+      "zones": {
+        "entry": 270.88,
+        "tp1": 283.25,
+        "tp2": 291.5,
+        "sl": 269.5
+      },
+      "periods": [
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
       "ticker": "FMX",
       "composite": 61,
       "prob": 95,
       "zones": {
-        "entry": 113.34,
-        "tp1": 118.52,
-        "tp2": 121.97,
-        "sl": 112.77
+        "entry": 115.25,
+        "tp1": 120.51,
+        "tp2": 124.02,
+        "sl": 114.66
       },
       "periods": [
         "1 Mes"
       ]
+    },
+    {
+      "ticker": "JCI",
+      "composite": 61,
+      "prob": 95,
+      "zones": {
+        "entry": 135.15,
+        "tp1": 141.33,
+        "tp2": 145.44,
+        "sl": 134.47
+      },
+      "periods": [
+        "3 Meses"
+      ]
     }
   ],
   "watchlist": [
-    {
-      "ticker": "MU",
-      "failed": [
-        "Radar"
-      ]
-    },
     {
       "ticker": "INCY",
       "failed": [
@@ -48,13 +104,19 @@
       ]
     },
     {
-      "ticker": "AMAT",
+      "ticker": "AMX",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
-      "ticker": "HUBB",
+      "ticker": "CMI",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "AMAT",
       "failed": [
         "Radar"
       ]
@@ -84,15 +146,15 @@
       ]
     },
     {
-      "ticker": "META",
+      "ticker": "ASML",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
-      "ticker": "JPM",
+      "ticker": "META",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -108,12 +170,6 @@
       ]
     },
     {
-      "ticker": "ASML",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "ALGN",
       "failed": [
         "Radar"
@@ -123,6 +179,12 @@
       "ticker": "USB",
       "failed": [
         "Analysis"
+      ]
+    },
+    {
+      "ticker": "FCX",
+      "failed": [
+        "Radar"
       ]
     }
   ]
