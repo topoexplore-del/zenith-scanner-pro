@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-16 11:59:11 (Hora Colombia)",
+  "checked_at": "2026-04-16 13:04:28 (Hora Colombia)",
   "confirmed": 6,
   "signals": [
     {
@@ -110,15 +110,15 @@
       ]
     },
     {
-      "ticker": "CMI",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "AMAT",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "CMI",
+      "failed": [
+        "Analysis"
       ]
     },
     {
