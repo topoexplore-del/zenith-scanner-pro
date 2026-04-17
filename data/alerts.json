@@ -1,66 +1,16 @@
 {
-  "checked_at": "2026-04-16 16:07:03 (Hora Colombia)",
-  "confirmed": 6,
+  "checked_at": "2026-04-17 09:58:09 (Hora Colombia)",
+  "confirmed": 2,
   "signals": [
-    {
-      "ticker": "TSM",
-      "composite": 85,
-      "prob": 95,
-      "zones": {
-        "entry": 369.47,
-        "tp1": 386.35,
-        "tp2": 397.61,
-        "sl": 367.6
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "composite": 80,
-      "prob": 95,
-      "zones": {
-        "entry": 195.89,
-        "tp1": 204.84,
-        "tp2": 210.8,
-        "sl": 194.89
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "HUBB",
-      "composite": 79,
-      "prob": 95,
-      "zones": {
-        "entry": 519.04,
-        "tp1": 542.75,
-        "tp2": 558.56,
-        "sl": 516.4
-      },
-      "periods": [
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
     {
       "ticker": "NDSN",
       "composite": 76,
       "prob": 95,
       "zones": {
-        "entry": 270.88,
-        "tp1": 283.25,
-        "tp2": 291.5,
-        "sl": 269.5
+        "entry": 272.55,
+        "tp1": 285.0,
+        "tp2": 293.3,
+        "sl": 271.17
       },
       "periods": [
         "3 Meses",
@@ -68,45 +18,40 @@
       ]
     },
     {
-      "ticker": "FMX",
-      "composite": 61,
+      "ticker": "GRMN",
+      "composite": 74,
       "prob": 95,
       "zones": {
-        "entry": 115.25,
-        "tp1": 120.51,
-        "tp2": 124.02,
-        "sl": 114.66
+        "entry": 260.39,
+        "tp1": 272.29,
+        "tp2": 280.22,
+        "sl": 259.07
       },
       "periods": [
-        "1 Mes"
-      ]
-    },
-    {
-      "ticker": "JCI",
-      "composite": 61,
-      "prob": 95,
-      "zones": {
-        "entry": 135.15,
-        "tp1": 141.33,
-        "tp2": 145.44,
-        "sl": 134.47
-      },
-      "periods": [
-        "3 Meses"
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
       ]
     }
   ],
   "watchlist": [
     {
-      "ticker": "INCY",
+      "ticker": "DLO",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "TSM",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "AMX",
+      "ticker": "YMM",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -119,6 +64,18 @@
       "ticker": "AMAT",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "HUBB",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AA",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -146,27 +103,15 @@
       ]
     },
     {
-      "ticker": "ASML",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "META",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "STLD",
+      "ticker": "SPGI",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "PNC",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -176,13 +121,7 @@
       ]
     },
     {
-      "ticker": "USB",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "FCX",
+      "ticker": "STLD",
       "failed": [
         "Radar"
       ]
