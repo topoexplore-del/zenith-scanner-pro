@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-04-20T20:33:49.434399Z",
+  "built_at": "2026-04-20T21:16:49.691808Z",
   "groups": {
     "🎯 Watchlist Core": [
       {
@@ -1085,7 +1085,7 @@
         "eps_gr": "N/A",
         "fund": 33.0,
         "sector": "Basic Materials",
-        "mktcap": "$78B",
+        "mktcap": "$76B",
         "target": 19.21,
         "upside": 8.0,
         "proj_conf": "Med",
@@ -7611,7 +7611,7 @@
         "eps_gr": "Decl",
         "fund": 42.0,
         "sector": "Healthcare",
-        "mktcap": "N/A",
+        "mktcap": "$34B",
         "target": 131.55,
         "upside": 7.9,
         "proj_conf": "Low",
@@ -13594,7 +13594,7 @@
         "eps_gr": "Strong",
         "fund": 89.0,
         "sector": "Communication Services",
-        "mktcap": "N/A",
+        "mktcap": "$9B",
         "target": 37.72,
         "upside": 6.2,
         "proj_conf": "Low",
