@@ -1,31 +1,65 @@
 {
-  "checked_at": "2026-04-17 16:12:42 (Hora Colombia)",
-  "confirmed": 2,
+  "checked_at": "2026-04-20 10:18:02 (Hora Colombia)",
+  "confirmed": 7,
   "signals": [
+    {
+      "ticker": "HUBB",
+      "composite": 79,
+      "prob": 95,
+      "zones": {
+        "entry": 527.54,
+        "tp1": 551.64,
+        "tp2": 567.7,
+        "sl": 524.86
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "ROK",
+      "composite": 76,
+      "prob": 95,
+      "zones": {
+        "entry": 409.49,
+        "tp1": 428.2,
+        "tp2": 440.67,
+        "sl": 407.42
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "ROK",
+      "composite": 76,
+      "prob": 95,
+      "zones": {
+        "entry": 409.49,
+        "tp1": 428.2,
+        "tp2": 440.67,
+        "sl": 407.42
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
     {
       "ticker": "NDSN",
       "composite": 76,
       "prob": 95,
       "zones": {
-        "entry": 272.55,
-        "tp1": 285.0,
-        "tp2": 293.3,
-        "sl": 271.17
-      },
-      "periods": [
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "GRMN",
-      "composite": 74,
-      "prob": 95,
-      "zones": {
-        "entry": 260.39,
-        "tp1": 272.29,
-        "tp2": 280.22,
-        "sl": 259.07
+        "entry": 277.66,
+        "tp1": 290.35,
+        "tp2": 298.8,
+        "sl": 276.25
       },
       "periods": [
         "1 Semana",
@@ -33,11 +67,76 @@
         "3 Meses",
         "6 Meses"
       ]
+    },
+    {
+      "ticker": "HWM",
+      "composite": 74,
+      "prob": 95,
+      "zones": {
+        "entry": 251.85,
+        "tp1": 263.36,
+        "tp2": 271.03,
+        "sl": 250.58
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "STLD",
+      "composite": 66,
+      "prob": 95,
+      "zones": {
+        "entry": 197.32,
+        "tp1": 206.33,
+        "tp2": 212.34,
+        "sl": 196.31
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "JCI",
+      "composite": 61,
+      "prob": 95,
+      "zones": {
+        "entry": 138.76,
+        "tp1": 145.1,
+        "tp2": 149.32,
+        "sl": 138.05
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
+      ]
     }
   ],
   "watchlist": [
     {
+      "ticker": "MU",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "DLO",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "INCY",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BWMX",
       "failed": [
         "Analysis"
       ]
@@ -67,9 +166,9 @@
       ]
     },
     {
-      "ticker": "HUBB",
+      "ticker": "ROST",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
@@ -85,43 +184,25 @@
       ]
     },
     {
+      "ticker": "RL",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "ECL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "POWL",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ANET",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "META",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AA",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "SPGI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ALGN",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "CCL",
+      "ticker": "CPAY",
       "failed": [
         "Analysis"
       ]
