@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-21 13:46:35 (Hora Colombia)",
+  "checked_at": "2026-04-21 14:54:14 (Hora Colombia)",
   "confirmed": 1,
   "signals": [
     {
@@ -79,6 +79,12 @@
       ]
     },
     {
+      "ticker": "JPM",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "BBVA",
       "failed": [
         "Analysis"
@@ -94,12 +100,6 @@
       "ticker": "STLD",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "failed": [
-        "Analysis"
       ]
     },
     {
