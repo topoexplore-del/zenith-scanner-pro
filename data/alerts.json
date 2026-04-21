@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-21 11:26:10 (Hora Colombia)",
+  "checked_at": "2026-04-21 12:36:59 (Hora Colombia)",
   "confirmed": 1,
   "signals": [
     {
@@ -44,6 +44,12 @@
     },
     {
       "ticker": "YMM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "HUBB",
       "failed": [
         "Radar"
       ]
@@ -98,12 +104,6 @@
     },
     {
       "ticker": "BAC",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "BCH",
       "failed": [
         "Analysis"
       ]
