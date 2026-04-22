@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-22 10:13:02 (Hora Colombia)",
+  "checked_at": "2026-04-22 11:23:38 (Hora Colombia)",
   "confirmed": 5,
   "signals": [
     {
@@ -14,7 +14,8 @@
       },
       "periods": [
         "1 Mes",
-        "3 Meses"
+        "3 Meses",
+        "6 Meses"
       ]
     },
     {
