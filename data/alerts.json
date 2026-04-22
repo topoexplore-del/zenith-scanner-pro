@@ -1,8 +1,101 @@
 {
-  "checked_at": "2026-04-21 16:31:06 (Hora Colombia)",
-  "confirmed": 0,
-  "signals": [],
+  "checked_at": "2026-04-22 10:13:02 (Hora Colombia)",
+  "confirmed": 5,
+  "signals": [
+    {
+      "ticker": "HUBB",
+      "composite": 79,
+      "prob": 95,
+      "zones": {
+        "entry": 540.87,
+        "tp1": 565.58,
+        "tp2": 582.06,
+        "sl": 538.13
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "NDSN",
+      "composite": 76,
+      "prob": 95,
+      "zones": {
+        "entry": 278.48,
+        "tp1": 291.2,
+        "tp2": 299.68,
+        "sl": 277.07
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "ALGN",
+      "composite": 66,
+      "prob": 95,
+      "zones": {
+        "entry": 192.27,
+        "tp1": 201.06,
+        "tp2": 206.91,
+        "sl": 191.3
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "FCX",
+      "composite": 61,
+      "prob": 95,
+      "zones": {
+        "entry": 66.56,
+        "tp1": 69.6,
+        "tp2": 71.62,
+        "sl": 66.22
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "FCX",
+      "composite": 61,
+      "prob": 95,
+      "zones": {
+        "entry": 66.56,
+        "tp1": 69.6,
+        "tp2": 71.62,
+        "sl": 66.22
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
+    {
+      "ticker": "ALL",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "CF",
+      "failed": [
+        "Radar"
+      ]
+    },
     {
       "ticker": "MU",
       "failed": [
@@ -16,7 +109,7 @@
       ]
     },
     {
-      "ticker": "BWMX",
+      "ticker": "AMX",
       "failed": [
         "Analysis"
       ]
@@ -28,37 +121,7 @@
       ]
     },
     {
-      "ticker": "HUBB",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "POWL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "META",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "BBVA",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "ALGN",
+      "ticker": "YMM",
       "failed": [
         "Radar"
       ]
@@ -70,7 +133,31 @@
       ]
     },
     {
-      "ticker": "BAC",
+      "ticker": "DECK",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TER",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "POWL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "HAL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "CMCSA",
       "failed": [
         "Analysis"
       ]
@@ -82,13 +169,7 @@
       ]
     },
     {
-      "ticker": "MNST",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "BCH",
+      "ticker": "PLD",
       "failed": [
         "Analysis"
       ]
