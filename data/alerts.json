@@ -1,71 +1,37 @@
 {
-  "checked_at": "2026-04-23 16:32:00 (Hora Colombia)",
-  "confirmed": 4,
+  "checked_at": "2026-04-24 10:10:42 (Hora Colombia)",
+  "confirmed": 2,
   "signals": [
     {
-      "ticker": "TSM",
-      "composite": 85,
+      "ticker": "ALGN",
+      "composite": 66,
       "prob": 95,
       "zones": {
-        "entry": 381.63,
-        "tp1": 399.06,
-        "tp2": 410.69,
-        "sl": 379.69
+        "entry": 187.81,
+        "tp1": 196.39,
+        "tp2": 202.11,
+        "sl": 186.86
       },
       "periods": [
         "1 Semana",
         "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "HAL",
-      "composite": 71,
-      "prob": 95,
-      "zones": {
-        "entry": 38.52,
-        "tp1": 40.28,
-        "tp2": 41.46,
-        "sl": 38.33
-      },
-      "periods": [
-        "1 Semana",
         "3 Meses",
         "6 Meses",
         "1 A\u00f1o"
       ]
     },
     {
-      "ticker": "ETN",
-      "composite": 70,
+      "ticker": "KOF",
+      "composite": 59,
       "prob": 95,
       "zones": {
-        "entry": 407.66,
-        "tp1": 426.29,
-        "tp2": 438.7,
-        "sl": 405.59
+        "entry": 100.31,
+        "tp1": 104.9,
+        "tp2": 107.95,
+        "sl": 99.8
       },
       "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "ETN",
-      "composite": 70,
-      "prob": 95,
-      "zones": {
-        "entry": 407.66,
-        "tp1": 426.29,
-        "tp2": 438.7,
-        "sl": 405.59
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
+        "1 Mes"
       ]
     }
   ],
@@ -89,7 +55,25 @@
       ]
     },
     {
+      "ticker": "PAC",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "CSCO",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "STLD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "LRCX",
       "failed": [
         "Radar"
       ]
@@ -113,49 +97,31 @@
       ]
     },
     {
-      "ticker": "META",
+      "ticker": "ITW",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "HAL",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "CRM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ABNB",
+      "ticker": "IR",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "SQM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "PSA",
+      "ticker": "SLB",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "BA",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "HLT",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "FTV",
+      "ticker": "WCC",
       "failed": [
         "Analysis"
       ]
