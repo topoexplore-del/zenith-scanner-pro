@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-24 14:09:13 (Hora Colombia)",
+  "checked_at": "2026-04-24 15:02:48 (Hora Colombia)",
   "confirmed": 2,
   "signals": [
     {
@@ -114,13 +114,13 @@
       ]
     },
     {
-      "ticker": "SLB",
+      "ticker": "PLD",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "WCC",
+      "ticker": "SLB",
       "failed": [
         "Analysis"
       ]
