@@ -1,33 +1,48 @@
 {
-  "checked_at": "2026-04-24 16:39:40 (Hora Colombia)",
-  "confirmed": 2,
+  "checked_at": "2026-04-27 10:48:05 (Hora Colombia)",
+  "confirmed": 3,
   "signals": [
     {
-      "ticker": "ALGN",
-      "composite": 66,
+      "ticker": "GOOGL",
+      "composite": 85,
       "prob": 95,
       "zones": {
-        "entry": 187.81,
-        "tp1": 196.39,
-        "tp2": 202.11,
-        "sl": 186.86
+        "entry": 339.23,
+        "tp1": 354.73,
+        "tp2": 365.06,
+        "sl": 337.51
       },
       "periods": [
-        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses"
       ]
     },
     {
-      "ticker": "KOF",
-      "composite": 59,
+      "ticker": "GOOG",
+      "composite": 85,
       "prob": 95,
       "zones": {
-        "entry": 100.31,
-        "tp1": 104.9,
-        "tp2": 107.95,
-        "sl": 99.8
+        "entry": 337.19,
+        "tp1": 352.59,
+        "tp2": 362.86,
+        "sl": 335.47
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "FMX",
+      "composite": 61,
+      "prob": 95,
+      "zones": {
+        "entry": 112.02,
+        "tp1": 117.14,
+        "tp2": 120.55,
+        "sl": 111.46
       },
       "periods": [
         "1 Mes"
@@ -48,15 +63,21 @@
       ]
     },
     {
+      "ticker": "NEM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "AMX",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "PAC",
+      "ticker": "TSM",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -73,6 +94,12 @@
     },
     {
       "ticker": "LRCX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AMAT",
       "failed": [
         "Radar"
       ]
@@ -96,9 +123,9 @@
       ]
     },
     {
-      "ticker": "ITW",
+      "ticker": "META",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -108,21 +135,9 @@
       ]
     },
     {
-      "ticker": "IR",
+      "ticker": "SNA",
       "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "PLD",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "SLB",
-      "failed": [
-        "Analysis"
+        "Radar"
       ]
     }
   ]
