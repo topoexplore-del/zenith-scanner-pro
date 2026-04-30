@@ -1,16 +1,32 @@
 {
-  "checked_at": "2026-04-29 16:20:52 (Hora Colombia)",
-  "confirmed": 2,
+  "checked_at": "2026-04-30 10:49:29 (Hora Colombia)",
+  "confirmed": 4,
   "signals": [
     {
-      "ticker": "TSM",
-      "composite": 85,
+      "ticker": "HUBB",
+      "composite": 79,
       "prob": 95,
       "zones": {
-        "entry": 386.45,
-        "tp1": 404.11,
-        "tp2": 415.88,
-        "sl": 384.49
+        "entry": 537.74,
+        "tp1": 562.31,
+        "tp2": 578.69,
+        "sl": 535.01
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "IEX",
+      "composite": 66,
+      "prob": 95,
+      "zones": {
+        "entry": 214.08,
+        "tp1": 223.86,
+        "tp2": 230.38,
+        "sl": 212.99
       },
       "periods": [
         "1 Semana",
@@ -20,17 +36,33 @@
       ]
     },
     {
-      "ticker": "HUBB",
-      "composite": 79,
+      "ticker": "CTRA",
+      "composite": 65,
       "prob": 95,
       "zones": {
-        "entry": 536.54,
-        "tp1": 561.05,
-        "tp2": 577.39,
-        "sl": 533.82
+        "entry": 35.14,
+        "tp1": 36.75,
+        "tp2": 37.82,
+        "sl": 34.97
       },
       "periods": [
-        "1 Mes",
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "VLO",
+      "composite": 61,
+      "prob": 95,
+      "zones": {
+        "entry": 247.53,
+        "tp1": 258.84,
+        "tp2": 266.38,
+        "sl": 246.27
+      },
+      "periods": [
+        "1 Semana",
         "3 Meses",
         "6 Meses"
       ]
@@ -38,15 +70,9 @@
   ],
   "watchlist": [
     {
-      "ticker": "NEM",
+      "ticker": "INCY",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "SPG",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -56,25 +82,13 @@
       ]
     },
     {
-      "ticker": "INCY",
+      "ticker": "NXPI",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "DECK",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AMAT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "YMM",
+      "ticker": "NXPI",
       "failed": [
         "Radar"
       ]
@@ -86,37 +100,7 @@
       ]
     },
     {
-      "ticker": "LRCX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "KO",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "TER",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "POWL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "META",
+      "ticker": "CDNS",
       "failed": [
         "Radar"
       ]
@@ -125,6 +109,36 @@
       "ticker": "HAL",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "SNA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "DVN",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "SQM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AFL",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "MO",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
