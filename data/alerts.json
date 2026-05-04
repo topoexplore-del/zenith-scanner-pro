@@ -1,70 +1,22 @@
 {
-  "checked_at": "2026-05-01 16:41:23 (Hora Colombia)",
-  "confirmed": 4,
+  "checked_at": "2026-05-04 11:02:03 (Hora Colombia)",
+  "confirmed": 1,
   "signals": [
     {
       "ticker": "FMX",
       "composite": 66,
       "prob": 95,
       "zones": {
-        "entry": 116.47,
-        "tp1": 121.79,
-        "tp2": 125.33,
-        "sl": 115.88
+        "entry": 118.17,
+        "tp1": 123.57,
+        "tp2": 127.17,
+        "sl": 117.57
       },
       "periods": [
         "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses"
-      ]
-    },
-    {
-      "ticker": "VLO",
-      "composite": 66,
-      "prob": 95,
-      "zones": {
-        "entry": 248.79,
-        "tp1": 260.16,
-        "tp2": 267.73,
-        "sl": 247.53
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "IEX",
-      "composite": 66,
-      "prob": 95,
-      "zones": {
-        "entry": 214.58,
-        "tp1": 224.39,
-        "tp2": 230.92,
-        "sl": 213.49
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "AME",
-      "composite": 60,
-      "prob": 95,
-      "zones": {
-        "entry": 231.97,
-        "tp1": 242.56,
-        "tp2": 249.63,
-        "sl": 230.79
-      },
-      "periods": [
-        "1 Mes"
       ]
     }
   ],
@@ -82,25 +34,7 @@
       ]
     },
     {
-      "ticker": "SPG",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "DLO",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "MU",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AMAT",
       "failed": [
         "Radar"
       ]
@@ -136,12 +70,6 @@
       ]
     },
     {
-      "ticker": "MPC",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "MPWR",
       "failed": [
         "Radar"
@@ -155,6 +83,30 @@
     },
     {
       "ticker": "OKE",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "POWL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "HAL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "WCC",
       "failed": [
         "Radar"
       ]
