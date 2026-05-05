@@ -1,25 +1,7 @@
 {
-  "checked_at": "2026-05-04 16:49:11 (Hora Colombia)",
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "FMX",
-      "composite": 66,
-      "prob": 95,
-      "zones": {
-        "entry": 118.17,
-        "tp1": 123.57,
-        "tp2": 127.17,
-        "sl": 117.57
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    }
-  ],
+  "checked_at": "2026-05-05 10:54:06 (Hora Colombia)",
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "VIST",
@@ -34,15 +16,21 @@
       ]
     },
     {
+      "ticker": "QCOM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "MU",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "NXPI",
+      "ticker": "LLY",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
@@ -52,19 +40,25 @@
       ]
     },
     {
-      "ticker": "VICI",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "STLD",
+      "ticker": "NXPI",
       "failed": [
         "Radar"
       ]
     },
     {
       "ticker": "LRCX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AMAT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "STLD",
       "failed": [
         "Radar"
       ]
@@ -88,12 +82,6 @@
       ]
     },
     {
-      "ticker": "POWL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "ANET",
       "failed": [
         "Radar"
@@ -101,12 +89,6 @@
     },
     {
       "ticker": "HAL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "WCC",
       "failed": [
         "Radar"
       ]
