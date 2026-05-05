@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-05-05T21:15:32.537519Z",
+  "built_at": "2026-05-05T22:35:29.883207Z",
   "groups": {
     "🎯 Watchlist Core": [
       {
@@ -1418,13 +1418,13 @@
         "20d": 3.15,
         "pe": 10.5,
         "pe_gr": "Cheap",
-        "roe": 35.1,
+        "roe": 34.8,
         "roe_gr": "Excel",
-        "roa": 14.3,
+        "roa": 14.5,
         "roa_gr": "Excel",
-        "eps_g": 30.1,
-        "eps_gr": "Strong",
-        "fund": 100.0,
+        "eps_g": -8.6,
+        "eps_gr": "Decl",
+        "fund": 75.0,
         "sector": "Energy",
         "mktcap": "$8B",
         "target": 85.05,
@@ -9895,7 +9895,7 @@
         "daily": -1.4,
         "5d": -1.8,
         "20d": -4.44,
-        "pe": 32.2,
+        "pe": 31.8,
         "pe_gr": "Pricey",
         "roe": 59.1,
         "roe_gr": "Excel",
