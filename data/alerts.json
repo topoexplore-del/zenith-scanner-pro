@@ -1,14 +1,90 @@
 {
-  "checked_at": "2026-05-05 16:15:32 (Hora Colombia)",
-  "confirmed": 0,
-  "signals": [],
-  "watchlist": [
+  "checked_at": "2026-05-06 11:04:05 (Hora Colombia)",
+  "confirmed": 5,
+  "signals": [
     {
-      "ticker": "VIST",
-      "failed": [
-        "Radar"
+      "ticker": "TSM",
+      "composite": 85,
+      "prob": 95,
+      "zones": {
+        "entry": 388.49,
+        "tp1": 406.24,
+        "tp2": 418.07,
+        "sl": 386.52
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
       ]
     },
+    {
+      "ticker": "ROK",
+      "composite": 76,
+      "prob": 95,
+      "zones": {
+        "entry": 429.39,
+        "tp1": 449.01,
+        "tp2": 462.09,
+        "sl": 427.21
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "ROK",
+      "composite": 76,
+      "prob": 95,
+      "zones": {
+        "entry": 429.39,
+        "tp1": 449.01,
+        "tp2": 462.09,
+        "sl": 427.21
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
+      "ticker": "CTRA",
+      "composite": 75,
+      "prob": 95,
+      "zones": {
+        "entry": 35.1,
+        "tp1": 36.7,
+        "tp2": 37.77,
+        "sl": 34.92
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses",
+        "1 A\u00f1o"
+      ]
+    },
+    {
+      "ticker": "SQM",
+      "composite": 56,
+      "prob": 95,
+      "zones": {
+        "entry": 91.25,
+        "tp1": 95.42,
+        "tp2": 98.2,
+        "sl": 90.79
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
+  "watchlist": [
     {
       "ticker": "INCY",
       "failed": [
@@ -28,13 +104,13 @@
       ]
     },
     {
-      "ticker": "LLY",
+      "ticker": "NXPI",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
-      "ticker": "NXPI",
+      "ticker": "YMM",
       "failed": [
         "Radar"
       ]
@@ -47,12 +123,6 @@
     },
     {
       "ticker": "LRCX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AMAT",
       "failed": [
         "Radar"
       ]
@@ -82,6 +152,12 @@
       ]
     },
     {
+      "ticker": "MO",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "ANET",
       "failed": [
         "Radar"
@@ -89,6 +165,12 @@
     },
     {
       "ticker": "HAL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ABEV",
       "failed": [
         "Radar"
       ]
